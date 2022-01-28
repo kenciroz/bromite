@@ -1,3 +1,5 @@
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
 https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt
 
 #https://www.reddit.com/r/androidapps/comments/b4goll/how_to_block_cookie_popup/
